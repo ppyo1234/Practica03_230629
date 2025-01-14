@@ -1,0 +1,25 @@
+{
+  "name": "mx.edu.utxj.ti.awi4.practica3",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Manejo de sesion en node.js y express ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppyo1234/Practica03_230629.git"
+  },
+  "author": "José Arturo García González",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppyo1234/Practica03_230629/issues"
+  },
+  "homepage": "https://github.com/ppyo1234/Practica03_230629#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "moment-timezone": "^0.5.46"
+  }
+}
